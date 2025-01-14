@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Star-Lord-Uday/Star-Lord-Uday/blob/main/uday.jpg.png)
 <h1 align="center">Hi 👋, I'm Uday Pratap Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
